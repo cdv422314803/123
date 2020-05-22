@@ -26,4 +26,4 @@ Route::group([
     Route::post('logout', 'LoginController@logout');
 });
 
-Route::post('signin', 'SignController@store')->middleware('api');gg
+Route::post('signin', 'SignController@store')->middleware('api');
