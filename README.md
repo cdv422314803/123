@@ -9,6 +9,8 @@ composer install
 php artisan serve
 
 http://127.0.0.1:8000/api/signin?name=12345&email=12345@12345&password=12345 已经注册过
-http://127.0.0.1:8000/api/login?name=12345&email=12345@12345&password=12345复制token
+然后
+http://127.0.0.1:8000/api/login?name=12345&email=12345@12345&password=12345 复制token
+然后
 http://127.0.0.1:8000/api/me 
 
