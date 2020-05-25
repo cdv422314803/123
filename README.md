@@ -1,5 +1,5 @@
 任务
-我用的laravel php框架
+我用的laravel php框架 用Postman
 sqlite数据库
 # 如何安装
 composer install
